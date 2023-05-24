@@ -1,6 +1,9 @@
 ### Hi there 👋
+
 My name is Trinh Long Vu.
+
 :frog: I’m currently learning REACTJS, JAVA
+
 ![cat-typing](https://github.com/trinhvu1711/trinhvu1711/assets/81180330/49fcfb12-ab56-482e-9705-9ddc0b6ffc73)
 
 <!--
